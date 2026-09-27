@@ -1,0 +1,62 @@
+[
+  {
+    "feature": "PassRatio_Sem2",
+    "importance": 0.07962497143443568
+  },
+  {
+    "feature": "Total_Approved",
+    "importance": 0.07308057909130375
+  },
+  {
+    "feature": "Curricular units 2nd sem (approved)",
+    "importance": 0.06301888375167274
+  },
+  {
+    "feature": "PassRatio_Sem1",
+    "importance": 0.05949840803169147
+  },
+  {
+    "feature": "Curricular units 2nd sem (grade)",
+    "importance": 0.05946042813726069
+  },
+  {
+    "feature": "Curricular units 1st sem (approved)",
+    "importance": 0.034408422933397464
+  },
+  {
+    "feature": "Curricular units 1st sem (grade)",
+    "importance": 0.03187956708806344
+  },
+  {
+    "feature": "Tuition fees up to date_0",
+    "importance": 0.02988449613687291
+  },
+  {
+    "feature": "Age at enrollment",
+    "importance": 0.0252817217140523
+  },
+  {
+    "feature": "Curricular units 2nd sem (evaluations)",
+    "importance": 0.024927216861112354
+  },
+  {
+    "feature": "Curricular units 1st sem (evaluations)",
+    "importance": 0.0242574363156099
+  },
+  {
+    "feature": "Tuition fees up to date_1",
+    "importance": 0.02414216315661457
+  },
+  {
+    "feature": "Admission grade",
+    "importance": 0.019050092441277068
+  },
+  {
+    "feature": "Grade_Change",
+    "importance": 0.018894141627578662
+  },
+  {
+    "feature": "Curricular units 2nd sem (enrolled)",
+    "importance": 0.018745187470937504
+  }
+]
